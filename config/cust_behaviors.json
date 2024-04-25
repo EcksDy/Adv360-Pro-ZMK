@@ -1,1 +1,82 @@
-[]
+[
+	{
+		"code": "&hm ",
+		"name": "&hm ",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LGUI",
+		"name": "&hm LGUI",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LEFT_META",
+		"name": "&hm LEFT_META",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LEFT_SHIFT",
+		"name": "&hm LEFT_SHIFT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LEFT_ALT",
+		"name": "&hm LEFT_ALT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LEFT_CONTROL",
+		"name": "&hm LEFT_CONTROL",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm RCTRL",
+		"name": "&hm RCTRL",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LALT",
+		"name": "&hm LALT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm RSHIFT",
+		"name": "&hm RSHIFT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm RMETA",
+		"name": "&hm RMETA",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
