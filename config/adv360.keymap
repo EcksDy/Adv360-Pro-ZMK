@@ -42,22 +42,21 @@
     };
 
     TD_BEHAVIOR(td_f1, CAPS, F1)
-    TD_BEHAVIOR(td_f2, 1, F2)
-    TD_BEHAVIOR(td_f3, 2, F3)
-    TD_BEHAVIOR(td_f4, 3, F4)
-    TD_BEHAVIOR(td_f5, 4, F5)
-    TD_BEHAVIOR(td_f6, 5, F6)
-    TD_BEHAVIOR(td_f7, 6, F7)
-    TD_BEHAVIOR(td_f8, 7, F8)
-    TD_BEHAVIOR(td_f9, 8, F9)
-    TD_BEHAVIOR(td_f10, 9, F10)
-    TD_BEHAVIOR(td_f11, 0, F11)
+    TD_BEHAVIOR(td_f2, N1, F2)
+    TD_BEHAVIOR(td_f3, N2, F3)
+    TD_BEHAVIOR(td_f4, N3, F4)
+    TD_BEHAVIOR(td_f5, N4, F5)
+    TD_BEHAVIOR(td_f6, N5, F6)
+    TD_BEHAVIOR(td_f7, N6, F7)
+    TD_BEHAVIOR(td_f8, N7, F8)
+    TD_BEHAVIOR(td_f9, N8, F9)
+    TD_BEHAVIOR(td_f10, N9, F10)
+    TD_BEHAVIOR(td_f11, N0, F11)
     TD_BEHAVIOR(td_f12, PSCRN, F12)
   };
 
     keymap {
         compatible = "zmk,keymap";
-
 
         default_layer {
             bindings = <
